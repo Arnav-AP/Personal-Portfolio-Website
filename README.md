@@ -10,6 +10,12 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ---
 
+## 🚀 Live Demo
+
+https://Arnav-AP.github.io/Personal-Portfolio-Website/
+
+---
+
 ## Features
 
 - Multi-page static site: `index.html`, `projects.html`, `certifications.html`
@@ -130,8 +136,8 @@ _A modern, multi-page portfolio website showcasing projects, achievements, and s
 
 ## 📬 Contact
 
-- **GitHub:** [github.com/Arnav-AP](https://github.com/Arnav-AP)
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **Email:** arnav_pardeshi@outlook.com
+- GitHub: https://github.com/Arnav-AP  
+- LinkedIn: https://www.linkedin.com/in/arnav-pardeshi-75a1bb3a4/  
+- Email: arnav_pardeshi@outlook.com
 
 ---
